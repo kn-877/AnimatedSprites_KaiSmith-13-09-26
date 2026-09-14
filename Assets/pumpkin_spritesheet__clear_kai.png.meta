@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 9722448bc41d1f744bc3ab2c024cf719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5697391347981949032
+    second: pumpkin_spritesheet__clear_kai_0
+  - first:
+      213: -2018262704123355398
+    second: pumpkin_spritesheet__clear_kai_1
+  - first:
+      213: -926195949422467631
+    second: pumpkin_spritesheet__clear_kai_2
+  - first:
+      213: 6024276355554722355
+    second: pumpkin_spritesheet__clear_kai_3
+  - first:
+      213: 365358703730333351
+    second: pumpkin_spritesheet__clear_kai_4
+  - first:
+      213: 6978357323176106044
+    second: pumpkin_spritesheet__clear_kai_5
+  - first:
+      213: 7343728129622594151
+    second: pumpkin_spritesheet__clear_kai_6
+  - first:
+      213: -2440854235403528471
+    second: pumpkin_spritesheet__clear_kai_7
+  - first:
+      213: 7877232165803859403
+    second: pumpkin_spritesheet__clear_kai_8
+  - first:
+      213: 4812675877519673164
+    second: pumpkin_spritesheet__clear_kai_9
+  - first:
+      213: -8136841159171627864
+    second: pumpkin_spritesheet__clear_kai_10
+  - first:
+      213: -987046425063566626
+    second: pumpkin_spritesheet__clear_kai_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 233
+        width: 150
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86819d2be33311f40800000000000000
+      internalID: 5697391347981949032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 233
+        width: 142
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afede4983c0bdf3e0800000000000000
+      internalID: -2018262704123355398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 232
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a442f0bd7523f0800000000000000
+      internalID: -926195949422467631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 233
+        width: 149
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332cf996d678a9350800000000000000
+      internalID: 6024276355554722355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_4
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 229
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a691772ec3021500800000000000000
+      internalID: 365358703730333351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 232
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3858a3330b18d060800000000000000
+      internalID: 6978357323176106044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762d23d33d92ae560800000000000000
+      internalID: 7343728129622594151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 34
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d34e4108502ed0800000000000000
+      internalID: -2440854235403528471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 34
+        width: 149
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd15006bec815d60800000000000000
+      internalID: 7877232165803859403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 34
+        width: 150
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47c6a2463f0ac240800000000000000
+      internalID: 4812675877519673164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_10
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 34
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a42cc99312241f80800000000000000
+      internalID: -8136841159171627864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pumpkin_spritesheet__clear_kai_11
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 34
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed25449818e4d42f0800000000000000
+      internalID: -987046425063566626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pumpkin_spritesheet__clear_kai_0: 5697391347981949032
+      pumpkin_spritesheet__clear_kai_1: -2018262704123355398
+      pumpkin_spritesheet__clear_kai_10: -8136841159171627864
+      pumpkin_spritesheet__clear_kai_11: -987046425063566626
+      pumpkin_spritesheet__clear_kai_2: -926195949422467631
+      pumpkin_spritesheet__clear_kai_3: 6024276355554722355
+      pumpkin_spritesheet__clear_kai_4: 365358703730333351
+      pumpkin_spritesheet__clear_kai_5: 6978357323176106044
+      pumpkin_spritesheet__clear_kai_6: 7343728129622594151
+      pumpkin_spritesheet__clear_kai_7: -2440854235403528471
+      pumpkin_spritesheet__clear_kai_8: 7877232165803859403
+      pumpkin_spritesheet__clear_kai_9: 4812675877519673164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
