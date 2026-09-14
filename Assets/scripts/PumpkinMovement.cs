@@ -45,11 +45,11 @@ public class PumpkinMovement : MonoBehaviour
     {
         if (moveInput.x > 0)
         {
-            spriteRenderer.flipX = true;
+            spriteRenderer.flipX = false;
         }
         else if (moveInput.x < 0)
         {
-            spriteRenderer.flipX = false;
+            spriteRenderer.flipX = true;
         }
     }
 }
