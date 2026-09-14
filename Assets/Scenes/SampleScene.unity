@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 2012354657}
   - component: {fileID: 2012354656}
   m_Layer: 0
-  m_Name: pumpkin_spritesheet__clear_kai_0
+  m_Name: Pumpkin_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

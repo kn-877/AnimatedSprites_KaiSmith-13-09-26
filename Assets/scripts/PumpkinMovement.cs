@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class BatMovement : MonoBehaviour
+public class PumpkinMovement : MonoBehaviour
 {
     [Header("Movement")]
     [SerializeField] private float moveSpeed = 5f;
@@ -31,7 +31,7 @@ public class BatMovement : MonoBehaviour
         bool isMoving = moveInput != Vector2.zero;
         animator.SetBool("IsMoving", isMoving);
 
-        FlipBat();
+        FlipPumpkin();
     }
 
     private void FixedUpdate()
@@ -41,7 +41,7 @@ public class BatMovement : MonoBehaviour
         );
     }
 
-    private void FlipBat()
+    private void FlipPumpkin()
     {
         if (moveInput.x > 0)
         {
